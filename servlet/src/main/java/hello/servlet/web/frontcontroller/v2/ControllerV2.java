@@ -6,7 +6,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-import hello.servlet.web.frontcontroller.v1.MyView;
+import hello.servlet.web.frontcontroller.MyView;
 
 public interface ControllerV2 {
 
