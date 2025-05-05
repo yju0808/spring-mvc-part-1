@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpringmvcApplication",
+            "request": "launch",
+            "mainClass": "hello.springmvc.SpringmvcApplication"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-ServletApplication<servlet>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
